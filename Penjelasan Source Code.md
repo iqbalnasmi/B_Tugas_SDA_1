@@ -3,7 +3,7 @@ Nama : M. Iqbal Nasmi Makarim
 
 NPM : G1A021094
 
-Kita menggunakan rumus tabung yaitu Vt = phi*r*r*t , (phi = 3,14) (r = jari jari tabung) (t= tinggi tabung). 
+Kita menggunakan rumus tabung yaitu Vt = phi * r * r * t , (phi = 3,14) (r = jari jari tabung) (t= tinggi tabung). 
 Untuk menghitung volume tabung pada pemrograman C++ saya menggunakan aplikasi VSCode. 
 Saya menggunakan #include <iostream> berfungsi sebagai header file yang digunakan library.
   
